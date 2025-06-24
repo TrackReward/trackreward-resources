@@ -20,7 +20,7 @@ Official WordPress plugin for integrating [TrackReward](https://trackreward.com)
 ## 📥 Installation
 
 1. Download the latest release:  
-   👉 [trackreward-wordpress.zip](https://github.com/TrackReward/trackreward-resources/releases)
+   👉 [trackreward-woocommerce.zip](https://github.com/TrackReward/trackreward-resources/releases)
 
 2. Go to your WordPress Admin:
    - Navigate to **Plugins → Add New → Upload Plugin**
