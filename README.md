@@ -1,3 +1,6 @@
+# TrackReward Resources
+Official Resources for the [TrackReward](https://trackreward.com)
+
 # 🧩 TrackReward WordPress Plugin
 
 Official WordPress plugin for integrating [TrackReward](https://trackreward.com) affiliate tracking into your WooCommerce store — no coding required.
